@@ -377,7 +377,7 @@ export default class App extends Component {
 
     return (
       <View>
-        {this.state.ternary
+        { this.state.ternary
           ?
           <View>
             <UserInterface
