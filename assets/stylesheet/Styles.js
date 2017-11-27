@@ -15,6 +15,7 @@ module.exports = StyleSheet.create({
     marginTop: 20,
     marginBottom: 1,
     alignItems: 'center',
+    textAlign: 'center',
     flex: 1
   },
   login: {
